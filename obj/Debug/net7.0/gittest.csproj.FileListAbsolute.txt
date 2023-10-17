@@ -1,0 +1,14 @@
+C:\Users\mkhec\Desktop\CodeStack23-24\gittest\bin\Debug\net7.0\gittest.exe
+C:\Users\mkhec\Desktop\CodeStack23-24\gittest\bin\Debug\net7.0\gittest.deps.json
+C:\Users\mkhec\Desktop\CodeStack23-24\gittest\bin\Debug\net7.0\gittest.runtimeconfig.json
+C:\Users\mkhec\Desktop\CodeStack23-24\gittest\bin\Debug\net7.0\gittest.dll
+C:\Users\mkhec\Desktop\CodeStack23-24\gittest\bin\Debug\net7.0\gittest.pdb
+C:\Users\mkhec\Desktop\CodeStack23-24\gittest\obj\Debug\net7.0\gittest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkhec\Desktop\CodeStack23-24\gittest\obj\Debug\net7.0\gittest.AssemblyInfoInputs.cache
+C:\Users\mkhec\Desktop\CodeStack23-24\gittest\obj\Debug\net7.0\gittest.AssemblyInfo.cs
+C:\Users\mkhec\Desktop\CodeStack23-24\gittest\obj\Debug\net7.0\gittest.csproj.CoreCompileInputs.cache
+C:\Users\mkhec\Desktop\CodeStack23-24\gittest\obj\Debug\net7.0\gittest.dll
+C:\Users\mkhec\Desktop\CodeStack23-24\gittest\obj\Debug\net7.0\refint\gittest.dll
+C:\Users\mkhec\Desktop\CodeStack23-24\gittest\obj\Debug\net7.0\gittest.pdb
+C:\Users\mkhec\Desktop\CodeStack23-24\gittest\obj\Debug\net7.0\gittest.genruntimeconfig.cache
+C:\Users\mkhec\Desktop\CodeStack23-24\gittest\obj\Debug\net7.0\ref\gittest.dll
